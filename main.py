@@ -15,7 +15,7 @@ def get_quote():
 
     if key:
         for quote in data:
-            if key in quote:
+            if key.lower() in quote.lower():
                 curateddata.append(quote)
 
     if curateddata:
