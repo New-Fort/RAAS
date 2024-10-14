@@ -17,7 +17,7 @@ To get a quote, use /get-quote
 ```
 
 **GET https://newfortie.eu.pythonanywhere.com/get-quote?key=kita**
-
+<br />
 *Returns only quotes with the specified key as a substring. Not case sensitive*
 ```
 {
