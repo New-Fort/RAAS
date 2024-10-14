@@ -16,7 +16,13 @@ To get a quote, use /get-quote
 }
 ```
 
-***More coming in the following days***
+**GET https://newfortie.eu.pythonanywhere.com/get-quote?key=kita**
+*Returns only quotes with the specified key as a substring. Not case sensitive*
+```
+{
+    "quote": "Kita. Last call."
+}
+```
 
 ## License
 GPL-3.0 license
