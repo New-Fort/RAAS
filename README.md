@@ -1,5 +1,5 @@
 # Rasz API
-A free REST API serving quotes from **Mr. Rasz** ❤️
+A free REST API (RAAS- Rasz As A Service) serving quotes from **Mr. Rasz** ❤️
 
 Built with **Flask**, hosted on [PythonAnywhere](https://eu.pythonanywhere.com)
 
